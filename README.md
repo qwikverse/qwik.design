@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cdfa07dd-bd3b-4367-9aeb-a854766f55f5/deploy-status)](https://app.netlify.com/sites/qwikdesign/deploys)
 # Qwik Design App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
