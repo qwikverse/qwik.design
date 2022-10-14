@@ -1,17 +1,12 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cdfa07dd-bd3b-4367-9aeb-a854766f55f5/deploy-status)](https://app.netlify.com/sites/qwikdesign/deploys)
-
-
 <p align="center">
   <br>
   <img width="400" src="./assets/qwik-design.png" alt="logo of awesome-vite repository">
-  <br>
-  <br>
 </p>
 
 <h1 align='center'>Qwik Design ⚡️</h1>
 
 <p align='center'>
-List of cool designs for <a href='https://github.com/BuilderIO/qwik'>Qwik</a>
+List of cool designs ideas for <a href='https://github.com/BuilderIO/qwik'>Qwik</a>
 <br><br>
 
 <a href='https://app.netlify.com/sites/qwikdesign/deploys'>
