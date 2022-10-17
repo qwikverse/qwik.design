@@ -9,7 +9,7 @@ export default component$(() => {
   return (
     <>
       <h1 class="text-3xl font-bold underline text-center">Welcome to Qwik Design</h1>
-      <QwikLottie options={defaultOptions} />
+      <QwikLottie options={defaultOptions}/>
     </>
   );
 });
