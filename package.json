@@ -14,7 +14,7 @@
     "build": "qwik build",
     "build.client": "vite build",
     "build.preview": "vite build --ssr src/entry.preview.tsx",
-    "build.server": "vite build --ssr src/entry.netlify-edge.tsx",
+    "build.server": "vite build --ssr src/entry.cloudflare-pages.tsx",
     "build.types": "tsc --incremental --noEmit",
     "dev": "vite --mode ssr",
     "dev.debug": "node --inspect-brk ./node_modules/vite/bin/vite.js --mode ssr --force",
@@ -22,7 +22,7 @@
     "fmt.check": "prettier --check .",
     "lint": "eslint \"src/**/*.ts*\"",
     "preview": "qwik build preview && vite preview --open",
-    "serve": "netlify dev",
+    "serve": "wrangler pages dev ./dist",
     "start": "vite --open --mode ssr",
     "qwik": "qwik"
   },
@@ -43,7 +43,8 @@
     "tailwindcss": "^3.1.8",
     "typescript": "4.8.3",
     "vite": "3.1.1",
-    "vite-tsconfig-paths": "3.5.0"
+    "vite-tsconfig-paths": "3.5.0",
+    "wrangler": "beta"
   },
   "dependencies": {
     "qwik-lottie": "^0.0.9",
