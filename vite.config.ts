@@ -13,7 +13,6 @@ export default defineConfig(() => {
       }),
       tsconfigPaths(),
       netlifyEdge({ functionName: "entry.netlify-edge" }),
-      netlifyEdge({ functionName: "entry.netlify-edge" }),
     ],
   };
 });
