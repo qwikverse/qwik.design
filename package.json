@@ -46,7 +46,7 @@
     "vite-tsconfig-paths": "3.5.0"
   },
   "dependencies": {
-    "qwik-lottie": "^0.0.8",
+    "qwik-lottie": "^0.0.9",
     "tw-elements": "^1.0.0-alpha12"
   }
 }
