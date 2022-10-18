@@ -47,7 +47,7 @@
     "wrangler": "beta"
   },
   "dependencies": {
-    "qwik-lottie": "^0.0.9",
+    "qwik-lottie": "^0.1.0",
     "tw-elements": "^1.0.0-alpha12"
   }
 }
