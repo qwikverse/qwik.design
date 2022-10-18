@@ -1,17 +1,17 @@
 {
-	"promptVSCodeSettings": true,
-	"geolocation": {
-		"data": {
-			"city": "Caloocan City",
-			"country": {
-				"code": "PH",
-				"name": "Philippines"
-			},
-			"subdivision": {
-				"code": "00",
-				"name": "Metro Manila"
-			}
-		},
-		"timestamp": 1666018408889
-	}
+  "promptVSCodeSettings": true,
+  "geolocation": {
+    "data": {
+      "city": "Caloocan City",
+      "country": {
+        "code": "PH",
+        "name": "Philippines"
+      },
+      "subdivision": {
+        "code": "00",
+        "name": "Metro Manila"
+      }
+    },
+    "timestamp": 1666018408889
+  }
 }

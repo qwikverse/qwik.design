@@ -1,7 +1,7 @@
 .docs {
   display: grid;
   grid-template-columns: 210px auto 190px;
-  grid-template-areas: 'menu article on-this-page';
+  grid-template-areas: "menu article on-this-page";
   gap: 40px;
 }
 

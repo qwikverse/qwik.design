@@ -13,7 +13,6 @@ List of cool designs ideas for <a href='https://github.com/BuilderIO/qwik'>Qwik<
 <img src='https://api.netlify.com/api/v1/badges/cdfa07dd-bd3b-4367-9aeb-a854766f55f5/deploy-status' alt='Awesome'>
 </a>
 
-
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
 - [Qwik GitHub](https://github.com/BuilderIO/qwik)
