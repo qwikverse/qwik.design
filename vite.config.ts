@@ -10,7 +10,7 @@ export default defineConfig(() => {
     plugins: [
       qwikCity(),
       qwikVite({
-        ssr: { outDir: "netlify/edge-functions/entry.netlify-edge" },
+        ssr: { outDir: "netlify/edge-functions" },
       }),
       tsconfigPaths(),
       netlifyEdge({ functionName: "entry.netlify-edge" }),
